@@ -9,15 +9,18 @@ https://www.bustle.com/
 
 2. Match between system and the real world
 
-![Bustle Rule Breakers](https://github.com/wesleybleu/DH150-WESLEYC/blob/main/Bustle_systemandrealworld.png)
+![Bustle Rule Breakers](https://github.com/wesleybleu/DH150-WESLEYC/blob/main/bustle-rulebreakers.png)
 
-Bustle assumes that all users see the "Rule Breakers" in society as bad-ass women in politics. That is not necessarily true. Instead the experts at bustle should be more straight-forward and say "politics". Maybe gear toward voting and the upcoming election. 
+- Bustle assumes that all users see the "Rule Breakers" in society as bad-ass women in politics. That is not necessarily true. Instead the experts at bustle should be more straight-forward and say "politics". Maybe gear toward voting and the upcoming election. 
 
 3. User control and freedom
 4. Consistency and standards
-- When looking at the Bustle page and going into the menu, on the left side of the page are various topics, such as: Entertainment, Style, Wellness, Life, Rule Breakers, and Experiences. This seems to be a poor User interface, becuase some of these categories do not have universal approaches. They imply that "Life" for one user may look the same for another or "Rule Breakers" seems ambiguous. 
+
 
 ![Bustle Menu](https://github.com/wesleybleu/DH150-WESLEYC/blob/main/Bustle_systemandrealworld.png)
+
+- When looking at the Bustle page and going into the menu, on the left side of the page are various topics, such as: Entertainment, Style, Wellness, Life, Rule Breakers, and Experiences. This seems to be a poor User interface, becuase some of these categories do not have universal approaches. They imply that "Life" for one user may look the same for another or "Rule Breakers" seems ambiguous. 
+
 
 5.Error prevention
 6. Recognition rather than recall
