@@ -68,7 +68,13 @@ https://www.oprah.com/index.html
 Oprah's website is based off of her Network OWN also known as Oprah Winfrey Network. Originally she was a famous talk show host in the 1980s- 2000s and in the last decade, in 2011 she started her own TV Network. Oprah Winfrey is a long standing icon in the Black/African American community, journalism, talk shows, television, movies, plays, and in women's circles. the OWN website is a space for African American lifestyle and community with a primary focus on her network.
 
 ## 1: Visibilty of system status
+
+- This was not a unit of anaylsis for this site.
+
 ## 2: Match between system and the real world
+
+- This was not a unit of anaylsis for this site.
+
 ## 3: User Control and Freedom
 ![Oprah User control and freedom 1](https://github.com/wesleybleu/DH150-WESLEYC/blob/main/Oprah_usercontrol1.png)
 ![Oprah User control and freedom 2](https://github.com/wesleybleu/DH150-WESLEYC/blob/main/Oprah_usercontrol2.png)
@@ -82,9 +88,17 @@ Oprah's website is based off of her Network OWN also known as Oprah Winfrey Netw
 -This site is a bit inconsistent in the ways that it is repetitive. The system is also not explicit when looking a the shows. Meaning that the user may think they do not have to sign up or create an account in order to participate. It is when the user keeps digging deeper, do they then realize that there is no longer access. This represents a kind of window shopping experience, although people may be looking to buy.
 
 ## 5: Error prevention
+
+- This was not a unit of anaylsis for this site.
+
 ## 6: Recognition rather than recall
+
+- This was not a unit of anaylsis for this site.
+
 ## 7: Flexibility and efficiency of use
-O_
+
+- This was not a unit of anaylsis for this site.
+
 ## 8: Aesthetic and minimalist design
 ![Oprah minimalism 1](https://github.com/wesleybleu/DH150-WESLEYC/blob/main/O_minimalist1.png)
 ![Oprah minimalism 2](https://github.com/wesleybleu/DH150-WESLEYC/blob/main/O_minimalist2.png)
@@ -96,6 +110,9 @@ O_
 
 
 ## 9: Help users recognize, diagnose, and recover from errors
+
+- This was not a unit of anaylsis for this site.
+
 ## 10: Help and documentation
 ![Oprah Help and Documentation](https://github.com/wesleybleu/DH150-WESLEYC/blob/main/O_help%20and%20documentation.png)
 
