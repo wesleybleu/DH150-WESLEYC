@@ -11,6 +11,7 @@ Description: I want to create a lifestyle and possibly a media webpage that focu
 
 ###### Website 1 : Bustle. com
 https://www.bustle.com/
+
 Bustle is a site aimed at middle-aged women specifically in catgories of entertainment, lifestyle, health, and more. 
 
 ## 1: Visibility of System Status
