@@ -4,7 +4,9 @@ The following analyzes th hueristics of two sites for middle-aged women.
 Through this evaluation of hueristics, it is possible to create a site that is more easily navigable for the in-user and their desires when viewing the webpage. 
 
 Tentative title:  Magnitude: The Gravity and Growth of us all
+
 Wesley Cox| DH 250: USER EXPERIENCE DESIGN 
+
 Description: I want to create a lifestyle and possibly a media webpage that focuses on the lives of African Americans- specifically African American women. I plan to create something culturally relevant, easy to navigate, and maybe a bit educational.
 
 ###### Website 1 : Bustle. com
