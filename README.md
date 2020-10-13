@@ -27,7 +27,7 @@ https://www.bustle.com/
 
 7. Flexibility and efficiency of use
 ![Bustle Flexibility 1](https://github.com/wesleybleu/DH150-WESLEYC/blob/main/flex_01.png) 
-![Bustle Flexibility 2]
+![Bustle Flexibility 2](https://github.com/wesleybleu/DH150-WESLEYC/blob/main/flex_02.png)
 ![Bustle Flexibility 3]
 ![Bustle Flexibility 4]
 
