@@ -25,6 +25,10 @@ https://www.bustle.com/
 5.Error prevention
 6. Recognition rather than recall
 7. Flexibility and efficiency of use
+
+
+
+- The user has to keep going back to menu to navigate the site. There is not a flexible way to get around the site. Once the user leaves a page, the user may get lost and can no longer return to a page. The site kind of has an overload of information. There are many stories that the user can view under each category, it is almost infinte, this can be confusing and visually exhausting for the user. 
 8. aesthetic and minimalist design (poor)
 9. Help users recognize, diagnose, and recover from errors
 10. Help and documentation
