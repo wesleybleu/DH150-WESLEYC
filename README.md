@@ -33,8 +33,10 @@ https://www.bustle.com/
 
 - The user has to keep going back to menu to navigate the site. There is not a flexible way to get around the site. Once the user leaves a page, the user may get lost and can no longer return to a page. The site kind of has an overload of information. There are many stories that the user can view under each category, it is almost infinte, this can be confusing and visually exhausting for the user. 
 
-8. aesthetic and minimalist design (poor)
-9. Help users recognize, diagnose, and recover from errors
+## Aesthetic and minimalist design
 
-## Website 2: Oprah.com
+![Bustle Aesthetic and Minimalist Design](https://github.com/wesleybleu/DH150-WESLEYC/blob/main/a%26m01.png)
+
+
+### Website 2: Oprah.com
 https://www.oprah.com/index.html
