@@ -9,7 +9,7 @@ https://www.bustle.com/
 
 2. Match between system and the real world
 
-![Bustle Rule Breakers)(https://github.com/wesleybleu/DH150-WESLEYC/blob/main/Bustle_systemandrealworld.png)
+![Bustle Rule Breakers](https://github.com/wesleybleu/DH150-WESLEYC/blob/main/Bustle_systemandrealworld.png)
 
 Bustle assumes that all users see the "Rule Breakers" in society as bad-ass women in politics. That is not necessarily true. Instead the experts at bustle should be more straight-forward and say "politics". Maybe gear toward voting and the upcoming election. 
 
