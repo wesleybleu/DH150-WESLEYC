@@ -71,7 +71,7 @@ Oprah's website is based off of her Network OWN also known as Oprah Winfrey Netw
 ## 2: Match between system and the real world
 ## 3: User Control and Freedom
 https://github.com/wesleybleu/DH150-WESLEYC/blob/main/Oprah_usercontrol1.png
-
+https://github.com/wesleybleu/DH150-WESLEYC/blob/main/Oprah_usercontrol2.png
 
 - the OWN website is wokring to promote voting. However when going from the welcome page to the voting page, the user gets encompassed in voting central with no clear "emergency exit" button for the user to retreat from the voting information. This can cause conflict, especially since OWN is primarily an entertainment source.
 ## 4: Consistency and standards
