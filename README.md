@@ -74,11 +74,21 @@ Oprah's website is based off of her Network OWN also known as Oprah Winfrey Netw
 ![Oprah User control and freedom 2](https://github.com/wesleybleu/DH150-WESLEYC/blob/main/Oprah_usercontrol2.png)
 
 - the OWN website is wokring to promote voting. However when going from the welcome page to the voting page, the user gets encompassed in voting central with no clear "emergency exit" button for the user to retreat from the voting information. This can cause conflict, especially since OWN is primarily an entertainment source.
+
 ## 4: Consistency and standards
 ## 5: Error prevention
 ## 6: Recognition rather than recall
 ## 7: Flexibility and efficiency of use
 ## 8: Aesthetic and minimalist design
+![Oprah minimalism 1]()
+![Oprah minimalism 2]()
+![Oprah minimalism 3]()
+![Oprah minimalism 4]()
+![Oprah minimalism 5]()
+
+- This interface is an information overlaod, there is not really a simple entry. If someone is a first time user, they may be confused about what the site offers. These frames are crunched into tight parameters. A suggestion would be to create more space for the user to separately view the various shows and let them explore the possibilty of single frames. A lot of these shows have an abundance of frames of the website and it becomes repetitive. 
+
+
 ## 9: Help users recognize, diagnose, and recover from errors
 ## 10: Help and documentation
 ![Oprah Help anf Documentation](9https://github.com/wesleybleu/DH150-WESLEYC/blob/main/O_help%20and%20documentation.png)
