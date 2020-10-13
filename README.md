@@ -76,6 +76,8 @@ Oprah's website is based off of her Network OWN also known as Oprah Winfrey Netw
 - the OWN website is wokring to promote voting. However when going from the welcome page to the voting page, the user gets encompassed in voting central with no clear "emergency exit" button for the user to retreat from the voting information. This can cause conflict, especially since OWN is primarily an entertainment source.
 
 ## 4: Consistency and standards
+![Oprah Consistency and Standards1](https://github.com/wesleybleu/DH150-WESLEYC/blob/main/O_consistency:Standards1.png)
+![Oprah Consistency and Standards2](https://github.com/wesleybleu/DH150-WESLEYC/blob/main/O_consistency:Standards2.png)
 
 -This site is a bit inconsistent in the ways that it is repetitive. The system is also not explicit when looking a the shows. Meaning that the user may think they do not have to sign up or create an account in order to participate. It is when the user keeps digging deeper, do they then realize that there is no longer access. This represents a kind of window shopping experience, although people may be looking to buy.
 
