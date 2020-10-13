@@ -64,3 +64,18 @@ When landing on the Bustle site, the user is hit with an overload of information
 
 ### Website 2: Oprah.com
 https://www.oprah.com/index.html
+
+Oprah's website is based off of her Network OWN also known as Oprah Winfrey Network. Originally she was a famous talk show host in the 1980s- 2000s and in the last decade, in 2011 she started her own TV Network. Oprah Winfrey is a long standing icon in the Black/African American community, journalism, talk shows, television, movies, plays, and in women's circles. the OWN website is a space for African American lifestyle and community with a primary focus on her network.
+
+## 1: Visibilty of system status
+## 2: Match between system and the real world
+## 3: User Control and Freedom
+
+- the OWN website is wokring to promote voting. However when going from the welcome page to the voting page, the user gets encompassed in voting central with no clear "emergency exit" button for the user to retreat from the voting information. This can cause conflict, especially since OWN is primarily an entertainment source.
+## 4: Consistency and standards
+## 5: Error prevention
+## 6: Recognition rather than recall
+## 7: Flexibility and efficiency of use
+## 8: Aesthetic and minimalist design
+## 9: Help users recognize, diagnose, and recover from errors
+## 10: Help and documentation
