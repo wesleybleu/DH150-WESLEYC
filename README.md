@@ -30,7 +30,6 @@ https://www.bustle.com/
 ![Bustle Flexibility 3](https://github.com/wesleybleu/DH150-WESLEYC/blob/main/flex_03.png)
 ![Bustle Flexibility 4](https://github.com/wesleybleu/DH150-WESLEYC/blob/main/flex_04.png)
 
-
 - The user has to keep going back to menu to navigate the site. There is not a flexible way to get around the site. Once the user leaves a page, the user may get lost and can no longer return to a page. The site kind of has an overload of information. There are many stories that the user can view under each category, it is almost infinte, this can be confusing and visually exhausting for the user. 
 
 ## Aesthetic and minimalist design
@@ -38,8 +37,9 @@ https://www.bustle.com/
 ![Bustle Aesthetic and Minimalist Design 1](https://github.com/wesleybleu/DH150-WESLEYC/blob/main/a%26m01.png)
 ![Bustle Aesthetic and Minimalist Design 2](https://github.com/wesleybleu/DH150-WESLEYC/blob/main/a%26m02.png)
 ![Bustle Aesthetic and Minimalist Design 3](https://github.com/wesleybleu/DH150-WESLEYC/blob/main/a%26m03.png)
-![Bustle Aesthetic and Minimalist Design 4]()
+![Bustle Aesthetic and Minimalist Design 4](https://github.com/wesleybleu/DH150-WESLEYC/blob/main/a%26m04.png)
 
+When landing on the Bustle site, the user is hit with an overload of information. There are many stories. Clearly some are highlighted. Others are left in small text. This is not a minimalist Design. It pulls attention to many places. The site also is not cohesive as the user scrolls down. Specifically, the homepage has variations in the interface- it may be helpful to simplify it.
 
 ### Website 2: Oprah.com
 https://www.oprah.com/index.html
