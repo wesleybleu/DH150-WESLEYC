@@ -3,7 +3,7 @@ Week 2 Discussion
 The following analyzes th hueristics of two sites for middle-aged women. 
 Through this evaluation of hueristics, it is possible to create a site that is more easily navigable for the in-user and their desires when viewing the webpage. 
 
-### Website 1 : Bustle. com
+###### Website 1 : Bustle. com
 https://www.bustle.com/
 Bustle is a site aimed at middle-aged women specifically in catgories of entertainment, lifestyle, health, and more. 
 
@@ -62,7 +62,7 @@ When landing on the Bustle site, the user is hit with an overload of information
 - This was not a unit of anaylsis for this site.
 
 
-### Website 2: Oprah.com
+###### Website 2: Oprah.com
 https://www.oprah.com/index.html
 
 Oprah's website is based off of her Network OWN also known as Oprah Winfrey Network. Originally she was a famous talk show host in the 1980s- 2000s and in the last decade, in 2011 she started her own TV Network. Oprah Winfrey is a long standing icon in the Black/African American community, journalism, talk shows, television, movies, plays, and in women's circles. the OWN website is a space for African American lifestyle and community with a primary focus on her network.
