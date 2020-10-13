@@ -35,7 +35,10 @@ https://www.bustle.com/
 
 ## Aesthetic and minimalist design
 
-![Bustle Aesthetic and Minimalist Design](https://github.com/wesleybleu/DH150-WESLEYC/blob/main/a%26m01.png)
+![Bustle Aesthetic and Minimalist Design 1](https://github.com/wesleybleu/DH150-WESLEYC/blob/main/a%26m01.png)
+![Bustle Aesthetic and Minimalist Design 2](https://github.com/wesleybleu/DH150-WESLEYC/blob/main/a%26m02.png)
+![Bustle Aesthetic and Minimalist Design 3]()
+![Bustle Aesthetic and Minimalist Design 4]()
 
 
 ### Website 2: Oprah.com
