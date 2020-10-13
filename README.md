@@ -12,7 +12,7 @@ https://www.bustle.com/
 4. Consistency and standards
 - When looking at the Bustle page and going into the menu, on the left side of the page are various topics, such as: Entertainment, Style, Wellness, Life, Rule Breakers, and Experiences. This seems to be a poor User interface, becuase some of these categories do not have universal approaches. They imply that "Life" for one user may look the same for another or "Rule Breakers" seems ambiguous. 
 
-![Bustle Menu](Bustle_system and real world.png)
+![Bustle Menu](https://github.com/wesleybleu/DH150-WESLEYC/blob/main/Bustle_systemandrealworld.png)
 
 5.Error prevention
 6. Recognition rather than recall
