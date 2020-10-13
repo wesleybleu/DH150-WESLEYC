@@ -81,3 +81,6 @@ Oprah's website is based off of her Network OWN also known as Oprah Winfrey Netw
 ## 8: Aesthetic and minimalist design
 ## 9: Help users recognize, diagnose, and recover from errors
 ## 10: Help and documentation
+![Oprah Help anf Documentation](9https://github.com/wesleybleu/DH150-WESLEYC/blob/main/O_help%20and%20documentation.png)
+
+- Although Oprah's site provides a site map to help users navigate, it is busy and a bit confusing. The map is pretty plain and is an organization of blocks with labels. A more productive strategy may be to label things by date, or category, or even supply an archive for information. As a new user of the site, I was slightly misguided looking at this layout.
