@@ -80,17 +80,17 @@ Oprah's website is based off of her Network OWN also known as Oprah Winfrey Netw
 ## 6: Recognition rather than recall
 ## 7: Flexibility and efficiency of use
 ## 8: Aesthetic and minimalist design
-![Oprah minimalism 1]()
-![Oprah minimalism 2]()
-![Oprah minimalism 3]()
-![Oprah minimalism 4]()
-![Oprah minimalism 5]()
+![Oprah minimalism 1](https://github.com/wesleybleu/DH150-WESLEYC/blob/main/O_minimalist1.png)
+![Oprah minimalism 2](https://github.com/wesleybleu/DH150-WESLEYC/blob/main/O_minimalist2.png)
+![Oprah minimalism 3](https://github.com/wesleybleu/DH150-WESLEYC/blob/main/O_minimalist3.png)
+![Oprah minimalism 4](https://github.com/wesleybleu/DH150-WESLEYC/blob/main/O_minimalist4.png)
+![Oprah minimalism 5](https://github.com/wesleybleu/DH150-WESLEYC/blob/main/O_minimalist5.png)
 
 - This interface is an information overlaod, there is not really a simple entry. If someone is a first time user, they may be confused about what the site offers. These frames are crunched into tight parameters. A suggestion would be to create more space for the user to separately view the various shows and let them explore the possibilty of single frames. A lot of these shows have an abundance of frames of the website and it becomes repetitive. 
 
 
 ## 9: Help users recognize, diagnose, and recover from errors
 ## 10: Help and documentation
-![Oprah Help anf Documentation](9https://github.com/wesleybleu/DH150-WESLEYC/blob/main/O_help%20and%20documentation.png)
+![Oprah Help and Documentation](9https://github.com/wesleybleu/DH150-WESLEYC/blob/main/O_help%20and%20documentation.png)
 
 - Although Oprah's site provides a site map to help users navigate, it is busy and a bit confusing. The map is pretty plain and is an organization of blocks with labels. A more productive strategy may be to label things by date, or category, or even supply an archive for information. As a new user of the site, I was slightly misguided looking at this layout.
